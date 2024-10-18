@@ -1,8 +1,0 @@
-com/mycompany/menagerie/models/Chien.class
-com/mycompany/menagerie/JakartaRestConfiguration.class
-com/mycompany/menagerie/resources/JakartaEE10Resource.class
-com/mycompany/menagerie/models/Chat.class
-com/mycompany/menagerie/models/Oiseau.class
-META-INF/spring.components
-com/mycompany/menagerie/models/Animal.class
-com/mycompany/menagerie/controller/MenagerieController.class

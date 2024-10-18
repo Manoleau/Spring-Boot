@@ -1,3 +1,0 @@
-com.mycompany.menagerie.JakartaRestConfiguration=jakarta.ws.rs.ApplicationPath
-com.mycompany.menagerie.controller.MenagerieController=org.springframework.stereotype.Component
-com.mycompany.menagerie.resources.JakartaEE10Resource=jakarta.ws.rs.Path
